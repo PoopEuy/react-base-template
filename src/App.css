@@ -69,3 +69,41 @@
 .nav-margin a {
   margin-left: 5px;
 }
+
+.button-margin {
+  margin-top: 10px !important;
+}
+
+.button-charge-change {
+  float: inline-end;
+}
+
+.invisible-button {
+  display: none;
+}
+
+.drop-down-bg {
+  background-color: black;
+}
+
+.marg-top {
+  margin-top: 10px !important;
+}
+
+.img-centered-view {
+  /* position: fixed; */
+  width: 80% !important;
+  height: auto !important;
+  margin-top: 25% !important;
+  margin-left: 50% !important;
+
+  transform: translate(-50%, -50%);
+}
+
+.invisible-div {
+  display: none;
+}
+
+.table-center {
+  text-align: center !important;
+}
